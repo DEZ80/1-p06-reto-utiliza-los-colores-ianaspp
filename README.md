@@ -11,7 +11,7 @@ PC: 4000
 
 ## Actividad 2: Pixel Cian
 ```
-21 43 77 22 00 C8 18 FE
+3E 03 32 00 C0 18 FE
 ```
 PC: 4000
 
@@ -30,5 +30,6 @@ PC: 4000
 # IMAGENES
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 [Actividad 1](/pixelrojo.jpg)
+[Actividad 2](/pixelcian.jpg)
 [Actividad 3](/pixelamarillo.jpg)
 [Actividad 4](/pixelfondo.jpg)
